@@ -37,6 +37,8 @@ In this SQL Challenge, following queries have been answered:
 
 * Create an image file of ERD.
 
+                           ###Employee Database###
+
 ![ERD](Employee_ERD.png)
 
 * Create a `.sql` file of table schemata.
