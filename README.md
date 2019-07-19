@@ -136,7 +136,7 @@ As part of Data Engineering, based on the CSV data, schema was created for depar
 
 **Employee Titles Vs Average Salary**
 
-![Ttitle_Salary_Table](Images/titles_salary_data.png)
+![Ttitle_Salary_Table](Images/title_salary_data.png)
 
 ![BarPlot](Images/title_salary_barplot.png)
 
