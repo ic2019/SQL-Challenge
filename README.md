@@ -1,6 +1,6 @@
 # Employee Database: A Mystery in Two Parts
 
-![employee](Images/employee.png)
+![employee](Images/sql.png)
 
 ## Background
 
@@ -136,7 +136,7 @@ As part of Data Engineering, based on the CSV data, schema was created for depar
 
 **Employee Titles Vs Average Salary**
 
-![Ttitle_Salary_Table](Images/titles_salary_table.png)
+![Ttitle_Salary_Table](Images/titles_salary_data.png)
 
 ![BarPlot](Images/title_salary_barplot.png)
 
