@@ -128,8 +128,7 @@ As part of Data Engineering, based on the CSV data, schema was created for depar
 
 ![query](query.sql)
 
-* (Optional) Create a Jupyter Notebook of the bonus analysis.
-
+* Bonus
 
 ![Bonus](employee.ipynb)
 
