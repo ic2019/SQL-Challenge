@@ -1,6 +1,6 @@
 # Employee Database: A Mystery in Two Parts
 
-![employee](employee.png)
+![employee](Images\employee.png)
 
 ## Background
 
@@ -15,13 +15,13 @@ In this SQL Challenge, following steps are done:
 
                            ###**Schema Diagram  -   Employee Database**###
 
-![ERD](Employee_ERD.png)
+![ERD](Images\Employee_ERD.png)
 
 **Data Engineering**
 
 * Create a `.sql` file of table schemata.
 
-![schema](schema.sql)
+![schema](Resources\schema.sql)
 
 As part of Data Engineering, based on the CSV data, schema was created for departments, employees, dept_emp, dept_manager, salaries and titles tables. Below are the details.
 
@@ -101,6 +101,8 @@ As part of Data Engineering, based on the CSV data, schema was created for depar
      
   ```
    Emp_no is defined as foreign key referencing employees table.
+
+   Once all the tables were created, data was copied using postgres _COPY_ command from CSV's to respective tables.
   
    
 **Data Analysis**
@@ -126,14 +128,17 @@ As part of Data Engineering, based on the CSV data, schema was created for depar
 9. Verify the integrity of data by plotting a bar chart of average salary for all employee titles.
 
 
-![query](query.sql)
+![query](Resources\query.sql)
 
 * Bonus
 
-![Jupyter Notebook](employee.ipynb)
+![Jupyter Notebook](Resources\employee.ipynb)
 
+**Employee Titles Vs Average Salary**
 
-![BarPlot](title_salary_barplot.png)
+![Ttitle_Salary_Table](Images\titles_salary_table.png)
+
+![BarPlot](Images\title_salary_barplot.png)
 
 **Analysis**
 
