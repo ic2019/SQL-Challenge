@@ -130,7 +130,7 @@ As part of Data Engineering, based on the CSV data, schema was created for depar
 
 * Bonus
 
-![Bonus](employee.ipynb)
+![Jupyter Notebook](employee.ipynb)
 
 
 ![BarPlot](title_salary_barplot.png)
