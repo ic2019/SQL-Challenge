@@ -135,3 +135,7 @@ As part of Data Engineering, based on the CSV data, schema was created for depar
 
 
 ![BarPlot](title_salary_barplot.png)
+
+**Analysis**
+
+From the above graph, we see that Senior Staff category has the highest Average salary $ 58511.96 than all other higher paid title categories. Senior Staff could have salary higher than Staff, but doesn't make sense to have higher salary that all other categories like Manager, Engineer etc. This seems like an anomaly and could be either due to incorrectness of data like an outlier as seen above for Senior staff with employee_no '205000' having a salary of 129492 dollars.
